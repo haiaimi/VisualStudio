@@ -120,6 +120,10 @@ to redistribute the MFC DLLs. If your application is in a language
 other than the operating system's locale, you will also have to
 redistribute the corresponding localized resources MFC100XXX.DLL.
 For more information on both of these topics, please see the section on
+<<<<<<< HEAD
 redistributing Visual C++ applications in MSDN documentation.
+=======
+redistributing Visual C++ applications in MSDN documentation.��
+>>>>>>> 一些C++程序
 
 /////////////////////////////////////////////////////////////////////////////
