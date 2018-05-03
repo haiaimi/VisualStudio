@@ -123,7 +123,7 @@ For more information on both of these topics, please see the section on
 <<<<<<< HEAD
 redistributing Visual C++ applications in MSDN documentation.
 =======
-redistributing Visual C++ applications in MSDN documentation.°£
+redistributing Visual C++ applications in MSDN documentation.°£°£
 >>>>>>> ‰∏Ä‰∫õC++Á®ãÂ∫è
 
 /////////////////////////////////////////////////////////////////////////////
